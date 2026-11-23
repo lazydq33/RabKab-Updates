@@ -1,7 +1,7 @@
 {
-  "version": "1.9.7.2",
-  "displayVersion": "1.9.7b",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Updates/releases/download/v1.9.7b/RabKabPackage-1.9.7b.bin",
-  "sha256": "51ceb04c8a0477726ea0b48d52d71465914c6b6eb1270b09cf76e4242b8475fd",
-  "notes": "Заставка теперь показывается на две секунды дольше. Добавлена поддержка буквенных версий для небольших исправлений."
+  "version": "1.9.7.3",
+  "displayVersion": "1.9.7c",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Updates/releases/download/v1.9.7c/RabKabPackage-1.9.7c.bin",
+  "sha256": "66a4514a3d737ddd4965cc0073bd230b47ab8f3e87fa3694a03a1b778f5e5418",
+  "notes": "Заставка длится одну секунду и показывается до главного окна. Обновлены иконка, оформление полей выбора и анимации. Добавлены уведомления о фактической явке, в том числе для подтверждённых смен."
 }
