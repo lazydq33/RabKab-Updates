@@ -1,6 +1,6 @@
 {
-  "version": "1.9.3",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Updates/releases/download/v1.9.3/RabKabPackage-1.9.3.bin",
-  "sha256": "ff2d8a398fa9bff291c9ce49754a159609b56d45a9061de78dba86ca13a120d9",
-  "notes": "Обновление теперь загружается и устанавливается внутри приложения; отдельный апдейтер не нужен."
+  "version": "1.9.4",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Updates/releases/download/v1.9.4/RabKabPackage-1.9.4.bin",
+  "sha256": "710249af8aa09313f3a35f68c848657f67ac7524c8c5c6044c51ba90cbdeec7a",
+  "notes": "Добавлена вкладка «Справка» с инструкцией для новых пользователей. Обновление устанавливается прямо в приложении; отдельный updater не нужен."
 }
