@@ -1,6 +1,6 @@
 {
-  "version": "1.9.5",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Updates/releases/download/v1.9.5/RabKabPackage-1.9.5.bin",
-  "sha256": "5fea8d511e5fc444b511362ee9a7ae4d05174b10a292a1560825b9ac148376e9",
-  "notes": "Исправлена совместимость шаблонов времени с .NET Framework 4.8. Проверка обновлений использует TLS 1.2."
+  "version": "1.9.6",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Updates/releases/download/v1.9.6/RabKabPackage-1.9.6.bin",
+  "sha256": "40bd1f384647e47048c8f61ae75a4ee7a7cb2849a0743d074320241b680a1340",
+  "notes": "Добавлено сохранение табеля за выбранный месяц в книгу Excel (.xlsx). Заставка отображается на одну секунду дольше."
 }
