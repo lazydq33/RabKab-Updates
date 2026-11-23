@@ -1,6 +1,6 @@
 {
-  "version": "1.9.4",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Updates/releases/download/v1.9.4/RabKabPackage-1.9.4.bin",
-  "sha256": "710249af8aa09313f3a35f68c848657f67ac7524c8c5c6044c51ba90cbdeec7a",
-  "notes": "Добавлена вкладка «Справка» с инструкцией для новых пользователей. Обновление устанавливается прямо в приложении; отдельный updater не нужен."
+  "version": "1.9.5",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Updates/releases/download/v1.9.5/RabKabPackage-1.9.5.bin",
+  "sha256": "5fea8d511e5fc444b511362ee9a7ae4d05174b10a292a1560825b9ac148376e9",
+  "notes": "Исправлена совместимость шаблонов времени с .NET Framework 4.8. Проверка обновлений использует TLS 1.2."
 }
