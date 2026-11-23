@@ -1,6 +1,6 @@
 {
-  "version": "1.9.2",
-  "downloadUrl": "https://github.com/lazydq33/RabKab-Updates/releases/download/v1.9.2/RabKabUpdate-1.9.2.exe",
-  "sha256": "c6e6ebb3cb6ae2e272f5745aca33f476ff9650c5c8f643f353285406fce7d871",
-  "notes": "Добавлена автоматическая проверка и установка обновлений."
+  "version": "1.9.3",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Updates/releases/download/v1.9.3/RabKabPackage-1.9.3.bin",
+  "sha256": "ff2d8a398fa9bff291c9ce49754a159609b56d45a9061de78dba86ca13a120d9",
+  "notes": "Обновление теперь загружается и устанавливается внутри приложения; отдельный апдейтер не нужен."
 }
